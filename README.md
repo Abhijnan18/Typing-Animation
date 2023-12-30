@@ -23,6 +23,10 @@ To use or integrate this typing animation into your project, follow these steps:
 
 3. Explore and modify the code as needed for your specific requirements.
 
+## Live Demo
+
+Check out the live demo of this Typing Animation: [Typing Animation Demo](https://abhijnan18.github.io/Typing-Animation/)
+
 ## Features
 
 - Typewriter effect with dynamic and bold words.
